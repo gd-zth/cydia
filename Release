@@ -1,0 +1,16 @@
+Origin: gd-zth
+Label: gd-zth Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: gd-zth-cydia
+Architecture: iphoneos-arm
+Components: main
+Description: Zth Cydia Repository hosted on GitHub
+
+Date: Tue, 01 Apr 2025 04:52:58 UTC
+MD5Sum:
+    9fd1d0e451c6dec7c38f4d899d9d4479  
+SHA1:
+    98addf9f5004dbf5d82542eecf52771bbe128b0e  
+SHA256:
+    f571804f7cc50e5a31e3bb8f6648e7eb9f087e40602762f85e9ab815997ec2fc  

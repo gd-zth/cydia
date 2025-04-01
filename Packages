@@ -1,0 +1,18 @@
+Package: re.frida.server
+Version: 15.2.2
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 55608
+Conflicts: re.frida.server64
+Filename: debs/frida_15.2.2_iphoneos-arm.deb
+Size: 15963816
+MD5sum: 97b52505a2bab184a82d0c4bf8aa4c94
+SHA1: 1c003f513068e7310763673fe6c6e463c9be3ef4
+SHA256: 19289ccf853ca29f15a32a7ecd1e3fb79c61a2c660f291f0368aa6d0007b8c39
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
